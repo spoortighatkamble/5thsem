@@ -3,7 +3,7 @@
   {
    "cell_type": "code",
    "execution_count": 1,
-   "id": "f08793bd",
+   "id": "bcd818e2",
    "metadata": {},
    "outputs": [
     {
@@ -14,17 +14,12 @@
      ]
     }
    ],
-   "source": [
-    "def add(a,b):\n",
-    "    return a+b\n",
-    "result=add(10,20)\n",
-    "print(\"Result:\",result)"
-   ]
+   "source": []
   },
   {
    "cell_type": "code",
    "execution_count": null,
-   "id": "d1a03dd5",
+   "id": "512b453b",
    "metadata": {},
    "outputs": [],
    "source": []
